@@ -1,3 +1,4 @@
+---
 # Hideki Mori
 
 Welcome to my personal website.
