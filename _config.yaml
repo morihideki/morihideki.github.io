@@ -4,3 +4,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
 url: "https://morihideki.github.io"
+logo: /assets/images/favicon.png
