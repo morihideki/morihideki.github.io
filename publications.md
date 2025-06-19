@@ -55,8 +55,6 @@ layout: default
 
 ## 学会発表
 
----
-
 ### 国際学会・ワークショップ
 * **Mori, H.**, Ueno, S., Matsumoto, A., Uchiyama, K., Kamijo, T., Tsumura, Y., & Masaki, T. (poster) Contribution of clonal reproduction and canopy gap disturbance on the distribution of deciduous liana species (*Wisteria floribunda*) in an old-growth cool temperate forest, *102nd Annual Meeting of the Ecological Society of America (ESA)*, Portland, Oregon, USA, August 2017.
 * **Mori, H.**, Kamijo, T., & Masaki, T. (Oral) Liana distribution and community structure in an old-growth cool temperate forest of Japan―Case study in Ogawa Forest Reserve (OFR)―, *"International Workshop on Lessons Learnt and Challenges from Forest Long-term Ecological Research (LTER) in the Northeast Asian Region"*, Harbin, China, September 2016.
