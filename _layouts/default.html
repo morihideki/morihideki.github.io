@@ -20,8 +20,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p><a href="/en/"><strong>English</strong></a></p>
-        <p><a href="/"><strong>日本語</strong></a></p>
+        <p>
+          <a href="/publications.md"><strong>研究業績 (Publications)</strong></a> | 
+          <a href="/en/"><strong>英語サイト (English)</strong></a> | 
+          <a href="/"><strong>日本語</strong>
+        </p>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
