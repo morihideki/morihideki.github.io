@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 研究業績 (Publications)
+# 研究業績
 
 ## 論文（投稿済み・審査中）
 1. **Mori, H.**, & Kamijo, T. (2025) Extensive clonal reproduction drives liana proliferation following forest fragmentation. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348) 
