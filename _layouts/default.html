@@ -20,11 +20,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p>
-          <a href="/publications"><strong>研究業績 (Publications)</strong></a> | 
-          <a href="/en/"><strong>英語サイト (English)</strong></a> | 
-          <a href="/"><strong>日本語</strong>
-        </p>
+        <ul class="downloads">
+          <li><a href="/publications.md">研究業績 (Publications)</a></li>
+          <li><a href="/cv.md">経歴 (CV)</a></li>
+          <li><a href="/en/">英語サイト (English)</a></li>
+        </ul>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
