@@ -4,8 +4,12 @@ layout: default
 
 # 研究業績
 
+---
+
 ## 論文（投稿済み・審査中）
 1. **Mori, H.**, & Kamijo, T. (2025) Extensive clonal reproduction drives liana proliferation following forest fragmentation. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348) 
+
+---
 
 ## 論文・総説（査読あり）
 
@@ -43,17 +47,25 @@ layout: default
 4. **森英樹** (2020) シリーズ 遺伝情報からスギを知る ―多様な環境に育つスギの成長・材質・利用―（5）有用形質のQTL解析と環境による変動. *山林*, 5, 27-32.
 5. **森英樹** (2019) 木本性つる植物フジの空間分布特性とクローン繁殖戦略. *森林遺伝育種*, 8(3), 131-137. [https://doi.org/10.32135/fgtb.8.3_131](https://doi.org/10.32135/fgtb.8.3_131) 
 
+---
+
 ## 書籍
 1. Hirata, Y., Toriyama, J., Ujino-Ihara, T., Nakao, K., Murakami, W., Tsunetaka, H., Nishizono, T., Hashimoto, S., Uchiyama, K., & **Mori, H.** (2025) Projection of Climate Change Impacts and Evaluation of Adaptation Options for Forestry. In *Climate Change Impacts and Adaptation Strategies in Japan* (pp. 75-91). Springer Nature Singapore. [https://doi.org/10.1007/978-981-96-2436-2_6](https://doi.org/10.1007/978-981-96-2436-2_6) 
 2. **森英樹** (2021) 3 樹木の生理・生態 木本性つる植物の生態. 日本森林学会（編）*森林学の百科事典*. 丸善出版 p. 82-83.
 
+---
+
 ## 学会発表
+
+---
 
 ### 国際学会・ワークショップ
 * **Mori, H.**, Ueno, S., Matsumoto, A., Uchiyama, K., Kamijo, T., Tsumura, Y., & Masaki, T. (poster) Contribution of clonal reproduction and canopy gap disturbance on the distribution of deciduous liana species (*Wisteria floribunda*) in an old-growth cool temperate forest, *102nd Annual Meeting of the Ecological Society of America (ESA)*, Portland, Oregon, USA, August 2017.
 * **Mori, H.**, Kamijo, T., & Masaki, T. (Oral) Liana distribution and community structure in an old-growth cool temperate forest of Japan―Case study in Ogawa Forest Reserve (OFR)―, *"International Workshop on Lessons Learnt and Challenges from Forest Long-term Ecological Research (LTER) in the Northeast Asian Region"*, Harbin, China, September 2016.
 * **Mori, H.**, Kamijo, T., & Masaki, T. (poster) Effects of host tree traits and ground conditions on liana distribution in a cool temperate forest, *58th Annual Symposium of the International Association for Vegetation Science (IAVS)*, Brno, Czech Republic, July 2015. 
 * **Mori, H.**, Kamijo, T., & Masaki, T. (Oral) Effects of Host Trees and Ground Conditions on Liana Distribution in Ogawa Forest Reserve, *"Direction for ecological studies on global network of forest dynamics plots (Studies by young scientists in FDPs in and around Japan)"*, Tokyo, Japan, October 2015. 
+
+---
 
 ### 国内学会・シンポジウム
 * **森英樹**、上條隆志、正木隆（ポスター発表）温帯林のツル植物における水平・垂直方向へのクローン成長戦略. *日本生態学会大会*（神奈川県2024年3月）
