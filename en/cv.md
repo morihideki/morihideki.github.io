@@ -72,5 +72,5 @@ layout: default
 
 ## Peer Review Experience
 * Refer to [Web of Science researcher profile](https://www.webofscience.com/wos/author/record/AAB-4705-2020) for details.
-* **Journals (International):** *Biotropica, Communications Biology, Ecological Research, Plant Ecology*
+* **Journals (International):** *Biotropica, Communications Biology, Ecological Research, Plant Ecology*, etc.
 * **Journals (Domestic):** *Japanese journal of forest environment*
