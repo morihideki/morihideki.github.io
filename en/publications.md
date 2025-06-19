@@ -38,17 +38,17 @@ layout: default
 ---
 
 ## Non Peer-reviewed Articles
-1. **Mori, H.** (2024) 木本つる性植物の生き様 (Life of woody lianas). *森林と林業*, 6:14-15.
+1. **Mori, H.** (2024) 木本つる性植物の生き様 (Life history of lianas). *森林と林業*, 6:14-15.
 1. **Mori, H.** (2021) 年輪を用いた樹木のQTL解析 (QTL analysis of trees using tree rings). *森林遺伝育種*, 10(2), 123. [https://doi.org/10.32135/fgtb.10.2_123_1](https://doi.org/10.32135/fgtb.10.2_123_1)
 1. **Mori, H.** et al. (2020) スギの成長や材質に関わる遺伝領域を特定し環境要因と遺伝要因の影響を明らかにする (Identification of genetic loci related to growth and wood quality of Sugi, and clarification of the effects of environmental and genetic factors). *森林総合研究所 令和2年版 研究成果選集 2020*, 38-39.
 1. **Mori, H.** (2020) シリーズ 遺伝情報からスギを知る ―多様な環境に育つスギの成長・材質・利用―（5）有用形質のQTL解析と環境による変動 (Series: Knowing Sugi from genetic information - Growth, wood quality, and utilization of Sugi growing in diverse environments - (5) QTL analysis of useful traits and their variation due to environment). *山林*, 5, 27-32.
-1. **Mori, H.** (2019) 木本性つる植物フジの空間分布特性とクローン繁殖戦略 (Spatial distribution characteristics and clonal propagation strategy of the woody liana Wisteria floribunda). *Forest Genetics and Tree Breeding*, 8(3), 131-137. [https://doi.org/10.32135/fgtb.8.3_131](https://doi.org/10.32135/fgtb.8.3_131)
+1. **Mori, H.** (2019) 木本性つる植物フジの空間分布特性とクローン繁殖戦略 (Spatial distribution characteristics and clonal reproduction strategy of the liana Wisteria floribunda). *Forest Genetics and Tree Breeding*, 8(3), 131-137. [https://doi.org/10.32135/fgtb.8.3_131](https://doi.org/10.32135/fgtb.8.3_131)
 
 ---
 
 ## Books & Book Chapters
 1. Hirata, Y., Toriyama, J., Ujino-Ihara, T., Nakao, K., Murakami, W., Tsunetaka, H., Nishizono, T., Hashimoto, S., Uchiyama, K., & **Mori, H.** (2025) Projection of Climate Change Impacts and Evaluation of Adaptation Options for Forestry. In *Climate Change Impacts and Adaptation Strategies in Japan* (pp. 75-91). Springer Nature Singapore. [https://doi.org/10.1007/978-981-96-2436-2_6](https://doi.org/10.1007/978-981-96-2436-2_6)
-1. **Mori, H.** (2021) 3 樹木の生理・生態 木本性つる植物の生態 (3 Tree Physiology and Ecology - Ecology of woody lianas). In *Encyclopedia of Forest Science*. Maruzen Publishing. p. 82-83.
+1. **Mori, H.** (2021) 3 樹木の生理・生態 木本性つる植物の生態 (3 Tree Physiology and Ecology - Ecology of lianas). In *Encyclopedia of Forest Science*. Maruzen Publishing. p. 82-83.
 
 ---
 
