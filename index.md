@@ -1,8 +1,6 @@
 ---
 # MORI, Hideki (Ph.D.)
 
-Welcome to my personal website.
-
 - Forest Research and Management Organization, Forestry and Forest Products Research Institute (FFPRI), Department of Forest Molecular Genetics and Biotechnology, Ecological Genetics Laboratory
 - Research area: Forest ecology, Forest genetics, Ecology of lianas
 - Address: Matsunosato 1, Tsukuba, Ibaraki, 305-8687 Japan
