@@ -1,4 +1,6 @@
 ---
+layout: default
+---
 
 # 研究業績 (Publications)
 
