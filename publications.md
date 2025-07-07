@@ -56,6 +56,7 @@ layout: default
 ## 学会発表
 
 ### 国際学会・ワークショップ
+* **Mori, H.** (oral, invited) Clonal reproduction, disturbance, and their implications for liana demography in temperate forests of Japan., *S-16 Long-term liana demography in a changing climate and ramifications for tropical forest sustainability and functioning, 61st Annual Meeting of the Association for Tropical Biology and Conservation (ATBC)*, Oaxaca, Oaxaca, Mexico, July 2025.
 * **Mori, H.**, Ueno, S., Matsumoto, A., Uchiyama, K., Kamijo, T., Tsumura, Y., & Masaki, T. (poster) Contribution of clonal reproduction and canopy gap disturbance on the distribution of deciduous liana species (*Wisteria floribunda*) in an old-growth cool temperate forest, *102nd Annual Meeting of the Ecological Society of America (ESA)*, Portland, Oregon, USA, August 2017.
 * **Mori, H.**, Kamijo, T., & Masaki, T. (Oral) Liana distribution and community structure in an old-growth cool temperate forest of Japan―Case study in Ogawa Forest Reserve (OFR)―, *"International Workshop on Lessons Learnt and Challenges from Forest Long-term Ecological Research (LTER) in the Northeast Asian Region"*, Harbin, China, September 2016.
 * **Mori, H.**, Kamijo, T., & Masaki, T. (poster) Effects of host tree traits and ground conditions on liana distribution in a cool temperate forest, *58th Annual Symposium of the International Association for Vegetation Science (IAVS)*, Brno, Czech Republic, July 2015. 
