@@ -11,7 +11,7 @@ layout: default
 
 ## Peer-reviewed Articles
 
-1. **Mori, H.**, & Kamijo, T. Clonal reproduction as a driver of liana proliferation following large-scale disturbances in temperate forests. *American Journal of Botany*. (In press)
+1. **Mori, H.**, & Kamijo, T. (2025) Clonal reproduction as a driver of liana proliferation following large-scale disturbances in temperate forests. *American Journal of Botany*, 112: e70085. [https://doi.org/10.1002/ajb2.70085](https://doi.org/10.1002/ajb2.70085)
 1. **Mori, H.**, Kamijo, T., Oguro, M., & Masaki, T. (2025) Liana distribution and small-scale natural disturbance in an old-growth temperate forest. *European Journal of Forest Research*, 144, 69–81. [https://doi.org/10.1007/s10342-024-01741-6](https://doi.org/10.1007/s10342-024-01741-6) ([view-only version](https://rdcu.be/d1kWo))
 1. Nakada, I., Uehara, I., & **Mori, H.** (2024) More lianas on larger host trees on steep slopes in a secondary temperate forest, Japan. *Plant Ecology*, 225, 519-533. [https://doi.org/10.1007/s11258-024-01409-6](https://doi.org/10.1007/s11258-024-01409-6) ([view-only version](https://rdcu.be/dBOWm))
 1. Ejima, A., Uchiyama, K., **Mori, H.**, & Tsumura, T. (2023) Genomic prediction of tree height, wood stiffness, and male flower traits across two generations in selected individuals of *Cryptomeria japonica* D. Don (Japanese cedar). *Forests*, 14, 2097. [https://doi.org/10.3390/f14102097](https://doi.org/10.3390/f14102097)
