@@ -9,7 +9,7 @@ layout: default
 - **Address**: Matsunosato 1, Tsukuba, Ibaraki, 305-8687 Japan
 - **Phone**: +81298298262
 - **Email1**: s1010750 'at' gmail.com
-- **Email2**: morih 'at' ffpri.affrc.go.jp
+- **Email2**: mori_hideki150 'at' ffpri.go.jp
 - **ORCID:** [0000-0001-7496-5217](https://orcid.org/0000-0001-7496-5217)
 - **Google Scholar:** [https://scholar.google.com/citations?user=DBs0js4AAAAJ&hl=ja](https://scholar.google.com/citations?user=DBs0js4AAAAJ&hl=ja)
 - **researchmap:** [https://researchmap.jp/morih/](https://researchmap.jp/morih/)
