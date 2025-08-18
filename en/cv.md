@@ -11,7 +11,7 @@ layout: default
 ---
 
 ### Affiliation
-* Senior Researcher, Department of Forest Molecular Genetics and Biotechnology, Forestry and Forest Products Research Institute (FFPRI), Forest Research and Management Organization.
+* Department of Forest Molecular Genetics and Biotechnology, Forestry and Forest Products Research Institute (FFPRI), Forest Research and Management Organization.
 
 ### Research Interests
 * Forest ecology, Forest genetics, Ecology of lianas
