@@ -17,7 +17,7 @@ layout: default
 * Forest ecology, Forest genetics, Ecology of lianas
 
 ### Contact
-* **Email:** s1010750 ‘at’ gmail.com / morih 'at' ffpri.affrc.go.jp
+* **Email:** s1010750 ‘at’ gmail.com / mori_hideki150 'at' ffpri.go.jp
 
 ---
 
