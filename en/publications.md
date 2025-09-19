@@ -5,7 +5,7 @@ layout: default
 # Publications
 
 ## Submitted Articles
-- **Mori, H.**, & Kamijo, T. (2025) Extensive clonal reproduction drives liana proliferation following forest fragmentation. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348)
+- **Mori, H.**, & Kamijo, T. (2025) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, *Wisteria floribunda*, across a fragmented forest landscape. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348)
 
 ---
 
