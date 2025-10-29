@@ -11,6 +11,7 @@ layout: default
 
 ## 論文・総説（査読あり）
 
+1. Schnitzer, S. A., Kaçamak, B., Zombo, I., Pandi, V., Addo‐Fordjour, P., Chen, Y., Di Filippo, A., Brockelman, W. Y., Nathalang, A., Gianoli, E., Garcia Leon, M. M., Bernal, B., Mackintosh, E., van der Heijden, G., **Mori, H.**, Davis, C. J., Peters, J. D. J., Zakaria, R. B., Ibarra‐Manríquez, G., . . . De Deurwaerder, H. P. T. (2025) The Search for Champion Lianas: The Largest Lianas on Six Continents. Biotropica, 57(6), 0. [https://doi.org/10.1111/btp.70119](https://doi.org/10.1111/btp.70119)
 1. **Mori, H.**, & Kamijo, T. (2025) Clonal reproduction as a driver of liana proliferation following large-scale disturbances in temperate forests. *American Journal of Botany*, 112: e70085. [https://doi.org/10.1002/ajb2.70085](https://doi.org/10.1002/ajb2.70085)
 1. **Mori, H.**, Kamijo, T., Oguro, M., & Masaki, T. (2025) Liana distribution and small-scale natural disturbance in an old-growth temperate forest. *European Journal of Forest Research*, 144, 69–81. [https://doi.org/10.1007/s10342-024-01741-6](https://doi.org/10.1007/s10342-024-01741-6) ([view-only version](https://rdcu.be/d1kWo)) 
 1. Nakada, I., Uehara, I., & **Mori, H.** (2024) More lianas on larger host trees on steep slopes in a secondary temperate forest, Japan. *Plant Ecology*, 225, 519–533. [https://doi.org/10.1007/s11258-024-01409-6](https://doi.org/10.1007/s11258-024-01409-6) ([view-only version](https://rdcu.be/dBOWm)) 
