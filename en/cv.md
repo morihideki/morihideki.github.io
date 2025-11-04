@@ -65,6 +65,7 @@ layout: default
 
 ### Committee Memberships
 * **2024 - Present:** Editor, *Journal of Forest Research*
+* **2025 – 2026:** Organizing Committee Member, The 137th Annual Meeting of The Japanese Forest Society
 * **2022 - 2023:** PR staff, The Japanese Forest Society
 * **2021 - 2023:** Conference Planning Committee, The Ecological Society of Japan
 
