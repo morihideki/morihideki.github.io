@@ -5,7 +5,8 @@ layout: default
 # 研究業績
 
 ## 論文（投稿済み・審査中）
-1. **Mori, H.**, & Kamijo, T. (2025) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, *Wisteria floribunda*, across a fragmented forest landscape. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348) 
+1. **Mori, H.**, & Kamijo, T. (2025) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, *Wisteria floribunda*, across a fragmented forest landscape. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348)
+2. **Mori, H.**, Masaki, T., Uchiyama, K., & Kamijo, T. (2025) Clonal Proliferation in Temperate Lianas: Vertical and Horizontal Growth Strategies Across Forest Strata. *Authorea*. [https://doi.org/10.22541/au.176585957.71816522/v1]
 
 ---
 
