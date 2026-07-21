@@ -18,10 +18,9 @@
 
 多くのツル植物は、種子繁殖だけでなくクローン繁殖も行います。そのため、森林内で離れて生育する複数の幹が、一つの遺伝的個体に由来していることがあります。
 
-私は、個体の位置情報と遺伝解析を組み合わせ、クローン個体が森林内や断片化された景観の中でどのように分布を広げるのかを研究しています。この研究を通して、地上部だけでは捉えにくいツル植物の「個体」の実態を明らかにすることを目指しています。
+私は、個体の位置情報と遺伝解析を組み合わせ、水平・垂直方向への成長を使い分けるクローン成長戦略により個体が森林内でどのように分布を広げるのかを研究しています。この研究を通して、地上部だけでは捉えにくいツル植物の「個体」の実態を明らかにすることを目指しています。
 
 関連する研究
-- Mori & Kamijo (in press) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, Wisteria floribunda, across a fragmented forest landscape. 
 - Mori et al. (2021) Interspecific variation in clonality in temperate lianas revealed by genetic analysis: Do clonal proliferation processes differ among lianas?
 - Mori et al. (2018) Large contribution of clonal reproduction to the distribution of deciduous liana species (Wisteria floribunda) in an old-growth cool temperate forest: evidence from genetic analysis.
 
