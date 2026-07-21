@@ -4,6 +4,7 @@
 
 私は、ツル植物が森林内でどのように分布し、クローン繁殖によって個体を維持・拡大し、森林撹乱や長期的な森林変化に応答するのかを研究しています。長期森林モニタリングを基盤に、野外調査、空間解析、遺伝解析を組み合わせることで、ツル植物の生態を個体から群集まで多面的に理解し、樹木を中心に構築されてきた森林生態学の理解を広げることを目指しています。
 
+---
 
 ## ツル植物の分布と生育環境
 
@@ -15,6 +16,7 @@
 - Mori et al. (2025) Liana distribution and small-scale natural disturbance in an old-growth temperate forest. 
 - Mori et al. (2016) Liana distribution and community structure in an old-growth temperate forest: the relative importance of past disturbances, host trees, and microsite characteristics.
 
+---
 
 ## クローン繁殖と個体の分布拡大
 
@@ -26,6 +28,7 @@
 - Mori et al. (2021) Interspecific variation in clonality in temperate lianas revealed by genetic analysis: Do clonal proliferation processes differ among lianas?
 - Mori et al. (2018) Large contribution of clonal reproduction to the distribution of deciduous liana species (Wisteria floribunda) in an old-growth cool temperate forest: evidence from genetic analysis.
 
+---
 
 ## 森林撹乱とツル植物の長期動態
 
@@ -38,6 +41,7 @@
 - Mori & Kamijo (2025) Clonal reproduction as a driver of liana proliferation following large-scale disturbances in temperate forests.
 - Mori et al. (2020) Survival rate and environmental response of current-year seedlings of the temperate liana Wisteria floribunda across a heterogeneous environment. 
 
+---
 
 ## 樹木の遺伝的変異と環境応答
 
