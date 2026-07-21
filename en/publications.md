@@ -5,13 +5,13 @@ layout: default
 # Publications
 
 ## Submitted Articles
-- **Mori, H.**, & Kamijo, T. (2025) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, *Wisteria floribunda*, across a fragmented forest landscape. *bioRxiv*. [https://doi.org/10.1101/2025.02.03.636348](https://doi.org/10.1101/2025.02.03.636348)
 - **Mori, H.**, Masaki, T., Uchiyama, K., & Kamijo, T. (2025) Clonal Proliferation in Temperate Lianas: Vertical and Horizontal Growth Strategies Across Forest Strata. *Authorea*. [https://doi.org/10.22541/au.176585957.71816522/v1](https://doi.org/10.22541/au.176585957.71816522/v1)
+- **Mori, H.**, Ueno, S., Ujino-Ihara, T., Suyama, Y., Kanetani, S., Moriguchi, Y., Tsumura, Y., Kimura, MK., & Uchiyama, K. Mortality responses to climatic shifts during early establishment in Cryptomeria japonica: divergent high-temperature sensitivity in a provenance trial.
 
 ---
 
 ## Peer-reviewed Articles
-
+1. **Mori, H.**, & Kamijo, T. (in press) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, *Wisteria floribunda*, across a fragmented forest landscape. *Plant Species Biology*
 1. Schnitzer, S. A., Kaçamak, B., Zombo, I., Pandi, V., Addo‐Fordjour, P., Chen, Y., Di Filippo, A., Brockelman, W. Y., Nathalang, A., Gianoli, E., Garcia Leon, M. M., Bernal, B., Mackintosh, E., van der Heijden, G., **Mori, H.**, Davis, C. J., Peters, J. D. J., Zakaria, R. B., Ibarra‐Manríquez, G., Sinaca‐Colín, S., Chanthorn, W., Dabo, G. A., Putz, F. E., Marshall, A. R., DeFilippis, D. M., Mello, F., Schnitzler, A., Dronneau, C., Kanda, N. B., Parthasarathy, N., & De Deurwaerder, H. P. T. (2025) The Search for Champion Lianas: The Largest Lianas on Six Continents. *Biotropica*, 57(6), 0. [https://doi.org/10.1111/btp.70119](https://doi.org/10.1111/btp.70119)
 1. **Mori, H.**, & Kamijo, T. (2025) Clonal reproduction as a driver of liana proliferation following large-scale disturbances in temperate forests. *American Journal of Botany*, 112: e70085. [https://doi.org/10.1002/ajb2.70085](https://doi.org/10.1002/ajb2.70085)
 1. **Mori, H.**, Kamijo, T., Oguro, M., & Masaki, T. (2025) Liana distribution and small-scale natural disturbance in an old-growth temperate forest. *European Journal of Forest Research*, 144, 69–81. [https://doi.org/10.1007/s10342-024-01741-6](https://doi.org/10.1007/s10342-024-01741-6) ([view-only version](https://rdcu.be/d1kWo))
@@ -55,6 +55,7 @@ layout: default
 ---
 
 ## Presentations (International)
+* **Mori, H.** (Invited, Oral) Long-term liana dynamics in an old-growth temperate forest in Japan., Symposium: S-26 Liana lives and afterlives: How are woody climbers reshaping our understanding of forest ecosystems?, *62nd Annual Meeting of the Association for Tropical Biology and Conservation (ATBC)*, Xishuangbanna, Yunnan, China, June 2026. [URL](https://www.xcdsystem.com/atbc/program/ULCvGXq/index.cfm?pgid=3727&sid=31838&abid=153149)
 * **Mori, H.** (Invited, Oral) Clonal reproduction, disturbance, and their implications for liana demography in temperate forests of Japan., Symposium: S-16 Long-term liana demography in a changing climate and ramifications for tropical forest sustainability and functioning, *61st Annual Meeting of the Association for Tropical Biology and Conservation (ATBC)*, Oaxaca, Oaxaca, Mexico, July 2025. [URL](https://www.xcdsystem.com/atbc/program/ULCvGXq/index.cfm?pgid=3727&sid=31838&abid=153149)
 * **Mori, H.**, Ueno, S., Matsumoto, A., Uchiyama, K., Kamijo, T., Tsumura, Y., & Masaki, T. (Poster) Contribution of clonal reproduction and canopy gap disturbance on the distribution of deciduous liana species (*Wisteria floribunda*) in an old-growth cool temperate forest, *102nd Annual Meeting of the Ecological Society of America (ESA)*, Portland, Oregon, USA, August 2017.
 * **Mori, H.**, Kamijo, T., & Masaki, T. (Oral) Liana distribution and community structure in an old-growth cool temperate forest of Japan―Case study in Ogawa Forest Reserve (OFR)―, *International Workshop on Lessons Learnt and Challenges from Forest Long-term Ecological Research (LTER) in the Northeast Asian Region*, Harbin, China, September 2016. ([Proceedings available online](http://www.iufro.org/publications/proceedings/proceedings-meetings-2016/#c24929))
