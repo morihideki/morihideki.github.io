@@ -6,7 +6,7 @@ layout: default
 
 ## 論文（投稿済み・審査中）
 1. **Mori, H.**, Masaki, T., Uchiyama, K., & Kamijo, T. (2025) Clonal Proliferation in Temperate Lianas: Vertical and Horizontal Growth Strategies Across Forest Strata. *Authorea*. [https://doi.org/10.22541/au.176585957.71816522/v1](https://doi.org/10.22541/au.176585957.71816522/v1)
-2. Mori, H., Ueno, S., Ujino-Ihara, T., Suyama, Y., Kanetani, S., Moriguchi, Y., Tsumura, Y., Kimura, MK., & Uchiyama, K. Mortality responses to climatic shifts during early establishment in Cryptomeria japonica: divergent high-temperature sensitivity in a provenance trial.
+2. **Mori, H.**, Ueno, S., Ujino-Ihara, T., Suyama, Y., Kanetani, S., Moriguchi, Y., Tsumura, Y., Kimura, MK., & Uchiyama, K. Mortality responses to climatic shifts during early establishment in Cryptomeria japonica: divergent high-temperature sensitivity in a provenance trial.
 
 ---
 
