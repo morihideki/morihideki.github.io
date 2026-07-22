@@ -14,6 +14,18 @@
 
 これらの研究から、ツル植物の分布や成長様式は種によって異なり、地形や森林構造、利用するホスト樹木と密接に関係することを明らかにしてきました。
 
+<div class="photo-row">
+  <figure>
+    <img src="/images/research2_rootclimber.jpeg" alt="張り付き型">
+    <figcaption>張り付いてよじ登るツル植物</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/research2_stemtwiner.jpeg" alt="巻き付き型">
+    <figcaption>巻きついてよじ登るツル植物</figcaption>
+  </figure>
+</div>
+
 関連する研究
 - Mori et al. (2025) Liana distribution and small-scale natural disturbance in an old-growth temperate forest. 
 - Mori et al. (2016) Liana distribution and community structure in an old-growth temperate forest: the relative importance of past disturbances, host trees, and microsite characteristics.
