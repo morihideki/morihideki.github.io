@@ -16,7 +16,7 @@
 
 <div class="photo-row">
   <figure>
-    <img src="/asssets/image/research2_rootclimber.jpeg" alt="張り付き型">
+    <img src="/assets/image/research2_rootclimber.jpeg" alt="張り付き型">
     <figcaption>張り付いてよじ登るツル植物</figcaption>
   </figure>
 
