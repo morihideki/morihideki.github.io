@@ -1,0 +1,32 @@
+.photo-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+  margin: 1.5rem 0;
+}
+
+.photo-row figure {
+  margin: 0;
+  text-align: center;
+}
+
+.photo-row img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.photo-row figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+/* スマートフォンでは縦に並べる */
+@media (max-width: 600px) {
+  .photo-row {
+    grid-template-columns: 1fr;
+  }
+}
