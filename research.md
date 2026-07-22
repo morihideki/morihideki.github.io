@@ -16,12 +16,12 @@
 
 <div class="photo-row">
   <figure>
-    <img src="/images/research2_rootclimber.jpeg" alt="張り付き型">
+    <img src="/asssets/images/research2_rootclimber.jpeg" alt="張り付き型">
     <figcaption>張り付いてよじ登るツル植物</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/research2_stemtwiner.jpeg" alt="巻き付き型">
+    <img src="/assets/images/research2_stemtwiner.jpeg" alt="巻き付き型">
     <figcaption>巻きついてよじ登るツル植物</figcaption>
   </figure>
 </div>
