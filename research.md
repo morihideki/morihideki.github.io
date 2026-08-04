@@ -39,7 +39,7 @@
 現在は、数十年にわたって継続されてきた固定試験地の毎木調査と遺伝解析を組み合わせ、ツル植物の個体数やバイオマスの増加をもたらす過程を研究しています。また、樹木群集とツル植物群集の長期変化を比較することで、ツル植物の動態を森林全体の変化の中で理解することを目指しています。
 
 関連する研究
-- Mori & Kamijo (in press) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, Wisteria floribunda, across a fragmented forest landscape. 
+- Mori & Kamijo (2026) Clonal expansion accounts for most post-disturbance proliferation of a dominant temperate liana, Wisteria floribunda, across a fragmented forest landscape. 
 - Mori & Kamijo (2025) Clonal reproduction as a driver of liana proliferation following large-scale disturbances in temperate forests.
 - Mori et al. (2020) Survival rate and environmental response of current-year seedlings of the temperate liana Wisteria floribunda across a heterogeneous environment. 
 
