@@ -27,6 +27,7 @@
 私は、個体の位置情報と遺伝解析を組み合わせ、水平・垂直方向への成長を使い分けるクローン成長戦略によって、個体が森林内や断片化された景観の中でどのように分布を広げるのかを研究しています。この研究を通して、地上部だけでは捉えにくいツル植物の「個体」の実態を明らかにすることを目指しています。
 
 関連する研究
+- Mori et al. (2026) Clonal proliferation in temperate lianas: vertical and horizontal growth strategies across forest strata. 
 - Mori et al. (2021) Interspecific variation in clonality in temperate lianas revealed by genetic analysis: Do clonal proliferation processes differ among lianas?
 - Mori et al. (2018) Large contribution of clonal reproduction to the distribution of deciduous liana species (Wisteria floribunda) in an old-growth cool temperate forest: evidence from genetic analysis.
 
@@ -50,6 +51,7 @@
 ツル植物の研究に加えて、樹木の成長や材質に関する遺伝的変異と環境応答についても研究してきました。共通圃場試験（産地試験）や遺伝解析を用いて、樹木の形質が遺伝的背景や生育環境によってどのように変化するかを調べています。
 
 関連する研究
+- Mori et al. (2026) Mortality responses to climatic shifts during early establishment in Cryptomeria japonica: divergent high-temperature sensitivity in a provenance trial.
 - Mori et al. (2022) Genotype-by-environment interaction and genetic dissection of heartwood color in Cryptomeria japonica based on multiple common gardens and quantitative trait loci mapping. 
 - Mori et al. (2020) Climate sensitivity of Cryptomeria japonica in two contrasting environments: Perspectives from QTL mapping.
 - Mori et al. (2019) Mapping quantitative trait loci for growth and wood property traits in Cryptomeria japonica across multiple environments. 
