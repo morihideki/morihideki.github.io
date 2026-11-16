@@ -4,7 +4,7 @@ layout: default
 
 # 研究業績
 ## 論文（投稿済み・審査中）
-1. **Mori, H.**, Nakao, K., Ueno, S., Uchiyama, K., Ujino-Ihara, T., Matsui, T., Koyama, Y., Kikuchi, S., Nagano, A.J., Tomaru, N., & Worth, J.R.P. (submitted) Regional variation in population genetic differentiation of *Fagus crenata* across four elevational clines in Japan.
+1. **Mori, H.**, Nakao, K., Ueno, S., Uchiyama, K., Ujino-Ihara, T., Matsui, T., Koyama, Y., Kikuchi, S., Nagano, A.J., Tomaru, N., & Worth, J.R.P. (*submitted*) Regional variation in population genetic differentiation of *Fagus crenata* across four elevational clines in Japan.
 
 ---
 ## 論文・総説（査読あり）
