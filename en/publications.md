@@ -3,11 +3,12 @@ layout: default
 ---
 
 # Publications
-<!--
+
 ## Submitted Articles
+1. **Mori, H.**, Nakao, K., Ueno, S., Uchiyama, K., Ujino-Ihara, T., Matsui, T., Koyama, Y., Kikuchi, S., Nagano, A.J., Tomaru, N., & Worth, J.R.P. (*submitted*) Regional variation in population genetic differentiation of *Fagus crenata* across four elevational clines in Japan.
 
 ---
--->
+
 ## Peer-reviewed Articles
 1. **Mori, H.**, Masaki, T., Uchiyama, K., & Kamijo, T. (2026) Clonal proliferation in temperate lianas: vertical and horizontal growth strategies across forest strata. *Ecological Research*, 41(6), e70144. [https://doi.org/10.1111/1440-1703.70144](https://doi.org/10.1111/1440-1703.70144)
 1. **Mori, H.**, Ueno, S., Ujino-Ihara, T., Suyama, Y., Kanetani, S., Moriguchi, Y., Tsumura, Y., Kimura, MK., & Uchiyama, K. (2026) Mortality responses to climatic shifts during early establishment in *Cryptomeria japonica*: divergent high-temperature sensitivity in a provenance trial. *Forest Ecology and Management*, 622, 124300. [https://doi.org/10.1016/j.foreco.2026.124300](https://doi.org/10.1016/j.foreco.2026.124300)
